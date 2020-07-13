@@ -4,7 +4,9 @@ This is a personal project using Kaggle's google play store data.
 
 Dataset Info. : https://www.kaggle.com/lava18/google-play-store-apps?select=googleplaystore.csv
 
-Report : https://github.com/GullyMac/PlayStore/blob/master/playstore.ipynb
+Work File : https://github.com/GullyMac/PlayStore/blob/master/playstore.ipynb
+
+Report : https://github.com/GullyMac/PlayStore/blob/master/playstore.pdf
 
 20.07.13 last edit
 
