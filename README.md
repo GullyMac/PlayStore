@@ -6,7 +6,7 @@ Dataset Info. : https://www.kaggle.com/lava18/google-play-store-apps?select=goog
 
 Work File : https://github.com/GullyMac/PlayStore/blob/master/playstore.ipynb
 
-Report : https://github.com/GullyMac/PlayStore/blob/master/playstore.pdf
+Report : https://github.com/GullyMac/PlayStore/blob/master/report.pdf
 
 20.07.13 last edit
 
