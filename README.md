@@ -39,7 +39,7 @@ It can be used to predict changes in ratings when updating an app
 
 or to locate a specific app in the app market.
 
-#### Metric: MAE, MSE
+#### Metric: MAE, RMSE
 
 ---
 
