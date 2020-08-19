@@ -2,6 +2,10 @@
 
 This is a personal project using Kaggle's google play store data.
 
+> Period : 20.06.12 ~ 20.06.15 (4days)\
+> Subject : Regression\
+> Role : Data preprocessing, Source code customizing, Report writing
+
 Dataset Info. : https://www.kaggle.com/lava18/google-play-store-apps?select=googleplaystore.csv
 
 Source Code : https://github.com/GullyMac/PlayStore/blob/master/playstore_code.ipynb
